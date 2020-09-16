@@ -6,7 +6,7 @@ CS529.L11.KHCL - HK1 (2020-2021)
 | Họ và Tên           | MSSV     |
 | ------------------- | -------- |
 | Trần Hoàng Sơn | 18521351 |
-| Hoàng Sơn Thọ     |18521558 |
-| Phạm Tiến Trung       |18521453 |
+| hạm Tiến Trung    |18521558 |
+| PHoàng Sơn Thọ        |18521453 |
 
 
