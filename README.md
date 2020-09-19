@@ -1,4 +1,4 @@
-# CS529.L11.KHCN
+# CS529.L11.KHCL
 Team N010 - Các vấn đề nghiên cứu và ứng dụng trong Khoa Học Máy Tính
 CS529.L11.KHCL - HK1 (2020-2021)
 
