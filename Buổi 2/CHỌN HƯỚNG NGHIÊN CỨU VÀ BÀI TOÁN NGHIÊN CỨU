@@ -1,0 +1,25 @@
+Nhóm N010
+—————
+- Xin chào thầy và các bạn, nhóm em có ý định nghiên cứu trong lĩnh vực Computer Vision.
+
+- Sau khi tìm hiểu và thảo luận thì nhóm em chọn ra một bài báo mà chúng em rất quan tâm. Đó là GANimation: Anatomically-aware Facial Animation from a Single Image - 
+Albert Pumarola, Antonio Agudo, Aleix M. Martinez, Alberto Sanfeliu, Francesc Moreno-Noguer.
+
+- Link bài báo: https://arxiv.org/pdf/1807.09251.pdf
+
+* Một vài thông tin chúng em tìm hiểu được:
+- Input: Một ảnh có khuôn mặt người.
+- Output: Ảnh động khuôn mặt người đó nhưng đã thay đổi cảm xúc trên khuôn mặt.
+
+- Bài báo giới thiệu một mô hình GAN mới có thể tạo ra các hoạt ảnh trên khuôn mặt nhận biết về hình thái từ một hình ảnh duy nhất trong điều kiện nền và điều kiện ánh sáng thay đổi. Nó cải tiến các công trình hiện tại, vốn chỉ giải quyết được vấn đề về chỉnh sửa thể loại cảm xúc và hình ảnh chân dung rời rạc. Phương pháp này thể hiện nhiều loại cảm xúc bằng cách mã hóa các biến dạng trên khuôn mặt dưới dạng Action Units. Các hình ảnh động thu được cho thấy sự chuyển đổi mượt mà và nhất quán đáng kể trên các khung hình ngay cả với các điều kiện ánh sáng và hậu cảnh khó khăn.
+
+- Link Github: https://github.com/albertpumarola/GANimation
+
+- Link video thuyết trình, demo: https://www.youtube.com/watch?v=raL78R3kl5E
+
+- Ý tưởng chính của bài báo này: Biểu cảm của khuôn mặt có thể được mô tả dưới dạng một hành động(AUs), cụ thể ở đây là về mặt giải phẫu sinh học của cơ mặt. Ví dụ: biểu hiện trên khuôn mặt cho 'nỗi sợ hãi' thường được tạo ra với các hoạt động sau :  Inner Brow Raiser (AU1), Outer Brow Raiser (AU2), Brow Lowerer (AU4), Upper Lid Raiser (AU5), Lid Tightener (AU7), Lip Stretcher (AU20) and Jaw Drop (AU26). Độ lớn của mỗi AU xác định mức độ của cảm xúc.
+Một mô hình cho hoạt ảnh tổng hợp trên khuôn mặt dựa trên cấu   trúc GAN, được điều chỉnh trên vectơ một chiều cho biết sự xuất hiện / biến mất và độ lớn của mỗi Action Unit.
+
+- Bài báo đã nhận được danh hiệu cao quý tại ECCV 2018, Hội nghị hàng đầu Châu Âu về Thị giác Máy tính.
+
+- Các ứng dụng kinh doanh khả thi: Công nghệ tự động làm sinh động biểu cảm khuôn mặt từ một hình ảnh duy nhất có thể được áp dụng trong một số lĩnh vực bao gồm kinh doanh thời trang và thương mại điện tử, công nghiệp phim ảnh, công nghệ nhiếp ảnh.
