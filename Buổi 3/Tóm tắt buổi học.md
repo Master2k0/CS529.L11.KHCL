@@ -1,0 +1,15 @@
+## Nội dung buổi học:
+- Điểm danh lớp đầu buổi
+- Hướng dẫn cách tìm kiếm tài liệu trên mạng ( SOTA + vấn đề quan tâm, Google Scholar, ...)
+- Hướng dẫn chọn tài liệu phù hợp ( Chọn năm gần nhất, tên hội nghị, tác giả nổi tiếng, ...)
+- Giới thiệu những người nổi tiếng trong ngành 
+- Ý nghĩa của từ Researcher
+- Các bước làm paper
+  - Viết Paper
+  - Chọn và nộp vào hội nghị 
+  - Review đọc bản thảo (Accept, Bother Line, Reject)
+  - Editor ra quyết định
+  - Viết bản camera ready
+  - Đăng ký dự hội nghị
+  - Nhà hội nghị xuất bản
+ - Kiểm tra điểm danh trên lớp và kết thúc buổi học.
